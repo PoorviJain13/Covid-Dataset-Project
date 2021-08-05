@@ -1,3 +1,5 @@
+-- Data Source: https://ourworldindata.org/covid-deaths
+
 -- looking at the covid deaths dataset
 
 select * 
