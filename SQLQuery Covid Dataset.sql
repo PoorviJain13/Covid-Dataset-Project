@@ -173,14 +173,4 @@ where deaths.continent is not null
 select * 
 from Percent_Population_Vaccinated
 
-
-
-
-
-
-
-
-
-
-
-
+----------------------------------------------------------
